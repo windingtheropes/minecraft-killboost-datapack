@@ -1,6 +1,6 @@
-replaceitem entity @a[tag=kit_skeleton] hotbar.0 bow{Enchantments:[{id:"power",lvl:1}]}
-replaceitem entity @a[tag=kit_skeleton] hotbar.1 stone_sword{Unbreakable:1}
-replaceitem entity @a[tag=kit_skeleton] hotbar.8 arrow 32
+give @a[tag=kit_skeleton] bow{Enchantments:[{id:"power",lvl:1}]}
+give @a[tag=kit_skeleton] stone_sword{Unbreakable:1}
+give @a[tag=kit_skeleton] arrow 32
 
 replaceitem entity @a[tag=kit_skeleton] armor.chest iron_chestplate
 replaceitem entity @a[tag=kit_skeleton] armor.legs iron_leggings
