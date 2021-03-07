@@ -3,9 +3,10 @@ replaceitem entity @a[tag=kit_rabbit] armor.chest chainmail_chestplate
 replaceitem entity @a[tag=kit_rabbit] armor.legs leather_leggings
 replaceitem entity @a[tag=kit_rabbit] armor.feet leather_boots
 
-give @a[tag=kit_rabbit] stone_sword{Enchantments:[{id:knockback,lvl:1}]}
+give @a[tag=kit_rabbit] stone_sword{Enchantments:[{id:"knockback",lvl:1, Unbreakable:1}]}
 
-
+attribute @r[tag=kit_rabbit] generic.max_health base set 14
+attribute @r[tag=kit_rabbit] minecraft:generic.attack_damage base set 1
 
 
 
