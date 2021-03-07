@@ -1,6 +1,6 @@
 replaceitem entity @a[tag=kit_unicorn] armor.head minecraft:end_rod
 replaceitem entity @a[tag=kit_unicorn] armor.chest elytra
-replaceitem entity @a[tag=kit_unicorn] hotbar.0 wooden_sword
+give @a[tag=kit_unicorn] wooden_sword
 
 replaceitem entity @a[tag=kit_unicorn] armor.legs leather_leggings
 replaceitem entity @a[tag=kit_unicorn] armor.feet leather_boots
