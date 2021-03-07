@@ -1,3 +1,3 @@
-function minecraft_map_datapack:kit_unicorn_spawn
-function minecraft_map_datapack:kit_skeleton_spawn
-function minecraft_map_datapack:kit_zombie_spawn
+function minecraft_map:kit_unicorn_spawn
+function minecraft_map:kit_skeleton_spawn
+function minecraft_map:kit_zombie_spawn
