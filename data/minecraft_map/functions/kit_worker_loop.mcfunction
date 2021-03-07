@@ -1,0 +1,3 @@
+function minecraft_map_datapack:kit_unicorn_loop
+function minecraft_map_datapack:kit_skeleton_loop
+function minecraft_map_datapack:kit_zombie_loop
