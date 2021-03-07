@@ -1,6 +1,6 @@
-effect give @a[tag=kit_zombie] slowness 99999 1 true
-effect give @a[tag=kit_zombie] strength 99999 5 true
-replaceitem entity @a[tag=kit_zombie] armor.head zombie_head
-replaceitem entity @a[tag=kit_zombie] armor.chest iron_chestplate
-replaceitem entity @a[tag=kit_zombie] armor.legs iron_leggings
-replaceitem entity @a[tag=kit_zombie] armor.feet iron_boots
+attribute @a[tag=kit_zombie] minecraft:generic.attack_damage base set 4.75
+attribute @a[tag=kit_zombie] minecraft:generic.max_health base set 16
+effect give @a[tag=kit_zombie] slowness 1 1 true
+effect give @a[tag=kit_zombie] strength 1 5 true
+effect give @a[tag=kit_zombie] resistance 1 1 true
+
