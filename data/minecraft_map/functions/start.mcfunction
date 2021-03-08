@@ -12,6 +12,7 @@ execute if score map map matches 3 run spawnpoint @a[tag=fighting] 1180 53 1002
 
 execute if score map map matches 4 run tp @a[team=Fighting] 1092 92 925
 execute if score map map matches 4 run spawnpoint @a[tag=fighting] 1092 92 925
+execute if score map map matches 4 run tag @a[tag=Fighting] add map_moon
 
 execute if score map map matches 5 run tp @a[team=Fighting] 1024 53 1024
 execute if score map map matches 5 run spawnpoint @a[tag=fighting] 1024 53 1024
