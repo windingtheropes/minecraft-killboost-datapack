@@ -1,0 +1,1 @@
+effect give @a[tag=kit_pig] speed 10 0 true
