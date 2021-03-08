@@ -5,8 +5,6 @@ replaceitem entity @a[tag=kit_rabbit] armor.feet leather_boots{Unbreakable:1}
 
 give @a[tag=kit_rabbit] stone_sword{Unbreakable:1, Enchantments:[{id:"knockback",lvl:1}]}
 
-attribute @r[tag=kit_rabbit] generic.max_health base set 14
-attribute @r[tag=kit_rabbit] minecraft:generic.attack_damage base set 1
 
 
 
