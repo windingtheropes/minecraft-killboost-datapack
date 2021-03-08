@@ -1,3 +1,4 @@
+
 effect give @a[tag=kit_rabbit] speed 10 1 true
 effect give @a[tag=kit_rabbit] jump_boost 10 3 true
 
