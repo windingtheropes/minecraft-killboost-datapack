@@ -31,3 +31,5 @@ title @a[tag=fighting] actionbar {"text": "Starting game!", "color": "green"}
 title @a[tag=spectating] actionbar {"text": "Spectating game!", "color": "light_grey"}
 title @a[tag=lobby] actionbar {"text": "You aren't joining this game. To join next time, make sure you ready up!", "color": "red"}
 
+tag @a[tag=fighting] remove lobby
+tag @a[tag=spectating] remove lobby
