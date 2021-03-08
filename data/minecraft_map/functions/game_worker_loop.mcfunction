@@ -1,0 +1,1 @@
+execute if score @r Kills = goal Goal run title @a[tag=fighting] title {"text":"Game over"}
