@@ -12,3 +12,5 @@ tag @a[team=Spectating] remove Spectating
 team join Lobby @a[team=Fighting]
 team join Lobby @a[team=Spectating]
 
+spawnpoint @a[team=Lobby] 0 50 0
+
