@@ -4,3 +4,4 @@ function minecraft_map:kit_zombie_loop
 function minecraft_map:kit_rabbit_loop
 function minecraft_map:kit_pig_loop
 function minecraft_map:kit_enderman_loop
+function minecraft_map:kit_windingtheropes_loop
