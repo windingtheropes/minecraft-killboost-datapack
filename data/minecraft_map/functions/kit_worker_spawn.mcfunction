@@ -4,3 +4,4 @@ function minecraft_map:kit_zombie_spawn
 function minecraft_map:kit_rabbit_spawn
 function minecraft_map:kit_pig_spawn
 function minecraft_map:kit_enderman_spawn
+function minecraft_map:kit_windingtheropes_spawn
