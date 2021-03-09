@@ -1,1 +1,1 @@
-execute if score @r Kills = goal Goal run function minecraft_map:
+execute if score @r Kills = goal Goal run function minecraft_map:deathmatch_win
