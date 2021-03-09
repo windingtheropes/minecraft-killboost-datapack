@@ -3,3 +3,4 @@ tag @p remove kit_skeleton
 tag @p remove kit_zombie
 tag @p remove kit_unicorn
 tag @p remove kit_pig
+tag @p remove kit_enderman
