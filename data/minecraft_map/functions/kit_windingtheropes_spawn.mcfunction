@@ -1,6 +1,6 @@
 replaceitem entity @a[tag=kit_windingtheropes] armor.head player_head{SkullOwner:WindingTheRopes}
 replaceitem entity @a[tag=kit_windingtheropes] armor.chest netherite_chestplate{Unbreakable:true,Damage:0,AttributeModifiers:[{AttributeName:"generic.armor",Amount:6,Operation:0,UUID:[I;-12129,18731,175051,-37462],Slot:chest,Name:"generic.armor"},{AttributeName:"generic.armor_toughness",Amount:0,Operation:0,UUID:[I;-12129,18831,175051,-37662],Slot:chest,Name:"generic.armor_toughness"},{AttributeName:"generic.knockback_resistance",Amount:0,Operation:0,UUID:[I;-12129,18931,175051,-37862],Slot:chest,Name:"generic.knockback_resistance"}]} 1
 replaceitem entity @a[tag=kit_windingtheropes] armor.legs golden_leggings{Unbreakable:true}
-replaceitem entity @a[tag=kit_windingtheropes] armor.feet diamond_boots{Unbreakable:true}
+replaceitem entity @a[tag=kit_windingtheropes] armor.feet diamond_boots{Unbreakable:1,Damage:0,AttributeModifiers:[{AttributeName:"generic.armor_toughness",Amount:0,Operation:0,UUID:[I;-12129,21731,175051,-43462],Name:"generic.armor_toughness"},{AttributeName:"generic.armor",Amount:2,Operation:0,UUID:[I;-12129,21831,175051,-43662],Name:"generic.armor"}]} 1
 
 give @a[tag=kit_windingtheropes] netherite_sword{Unbreakable:1,Damage:0,AttributeModifiers:[{AttributeName:"generic.attack_damage",Amount:6.75,Operation:0,UUID:[I;-12129,15231,175051,-30462],Slot:mainhand,Name:"generic.attack_damage"}]} 1
