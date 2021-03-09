@@ -1,0 +1,1 @@
+effect give @a[scores={PlayerDeaths=1}] speed 5 1 true
