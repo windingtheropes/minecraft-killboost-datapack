@@ -1,1 +1,1 @@
-execute if score @r[tag=fighting] KillBoost matches 1 run
+execute if score @r[tag=fighting] KillBoost matches 1 run function minecraft_map:killboost
