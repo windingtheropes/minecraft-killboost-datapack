@@ -2,6 +2,7 @@
 
 	"values":[
 		"minecraft_map:detect_kill",
-		"minecraft_map:detect_dead"
+		"minecraft_map:detect_dead",
+		"mine"
 		]
 }

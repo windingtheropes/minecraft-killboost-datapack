@@ -1,0 +1,7 @@
+function minecraft_map:kits/kit_unicorn_spawn
+function minecraft_map:kits/kit_skeleton_spawn
+function minecraft_map:kits/kit_zombie_spawn
+function minecraft_map:kits/kit_rabbit_spawn
+function minecraft_map:kits/kit_pig_spawn
+function minecraft_map:kits/kit_enderman_spawn
+function minecraft_map:kits/kit_windingtheropes_spawn
