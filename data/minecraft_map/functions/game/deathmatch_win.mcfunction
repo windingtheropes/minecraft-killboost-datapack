@@ -1,4 +1,4 @@
-execute if score @p Kills = goal Goal run title @a title [{"selector":"@s"},{"text":" WINS!","color":"#FFD237"}]
+execute as @p[scores={Kills=5}] run title @a title [{"selector":"@s"},{"text":" WINS!","color":"#FFD237"}]
 
 tp @a[team=Fighting] 0 50 0
 tp @a[team=Spectating] 0 50 0
