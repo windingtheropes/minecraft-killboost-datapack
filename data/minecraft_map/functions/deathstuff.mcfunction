@@ -1,8 +1,8 @@
-#Killboost for all kits
 
+#Enderman Respawn
 clear @a[scores={dead=1},tag=kit_enderman] ender_pearl
 give @a[scores={dead=1},tag=kit_enderman] ender_pearl 2
-
+#Skeleton Respawn
 clear @a[scores={dead=1},tag=kit_skeleton] arrow
 give @a[scores={dead=1},tag=kit_skeleton] arrow 16
 
