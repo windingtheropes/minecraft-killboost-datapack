@@ -1,7 +1,8 @@
 {
 
 	"values":[
-		"killboost:detect_kill",
-		"killboost:detect_dead"
+		"killboost:game/detect_kill",
+		"killboost:game/detect_dead",
+		"killboost:kits/kit_worker_loop"
 		]
 }
