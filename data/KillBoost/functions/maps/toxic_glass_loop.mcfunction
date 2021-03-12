@@ -1,2 +1,2 @@
-execute as @r[tag=map_toxic_wasteland,y=52] run effect give @s slowness 3 1 true
-execute as @r[tag=map_toxic_wasteland,y=52] run effect give @s poison 3 1 true 
+execute if block ^ ^-5 ^ lime_stained_glass run effect give @r[tag=map_toxic_wasteland] slowness 3 1 true
+execute if block ^ ^-5 ^ lime_stained_glass run effect give @r[tag=map_toxic_wasteland] poison 3 1 true 
