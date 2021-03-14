@@ -6,6 +6,12 @@ tp @a[team=Spectating] 0 50 0
 tag @a[team=Fighting] add lobby
 tag @a[team=Spectating] add lobby
 
+tag @a[team=Fighting] remove map_toxic_wasteland
+tag @a[team=Spectating] remove map_toxic_wasteland
+
+tag @a[team=Fighting] remove map_moon
+tag @a[team=Spectating] remove map_moon
+
 tag @a[team=Fighting] remove fighting
 tag @a[team=Spectating] remove Spectating
 
