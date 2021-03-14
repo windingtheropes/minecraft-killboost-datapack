@@ -1,0 +1,1 @@
+effect give @a[tag=kit_beetle] slowness 2 0 true
