@@ -39,9 +39,11 @@ execute if score map map matches 6 run tp @a[team=Spectating] 1124 64 1222
 
 execute if score map map matches 7 run tp @a[team=Spectating] 1189 61 1150
 
+tag @a[tag=fighting] remove lobby
+tag @a[tag=spectating] remove lobby
+
 title @a[tag=fighting] actionbar {"text": "Starting game!", "color": "green"}
 title @a[tag=spectating] actionbar {"text": "Spectating game!", "color": "light_grey"}
 title @a[tag=lobby] actionbar {"text": "You aren't joining this game. To join next time, make sure you ready up!", "color": "red"}
 
-tag @a[tag=fighting] remove lobby
-tag @a[tag=spectating] remove lobby
+
