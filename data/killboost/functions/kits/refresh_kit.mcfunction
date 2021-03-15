@@ -1,5 +1,5 @@
 clear @a
-
+effect clear @a
 tag @p remove kit_rabbit
 tag @p remove kit_skeleton
 tag @p remove kit_zombie
