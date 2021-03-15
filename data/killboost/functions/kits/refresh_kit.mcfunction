@@ -1,4 +1,4 @@
-clear @p
+clear @a
 
 tag @p remove kit_rabbit
 tag @p remove kit_skeleton

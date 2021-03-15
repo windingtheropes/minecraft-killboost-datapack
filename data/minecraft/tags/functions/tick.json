@@ -3,8 +3,8 @@
 	"values":[
 		"killboost:game/detect_kill",
 		"killboost:game/detect_dead",
-		"killboost:game/spawnpoint_loop",
 		"killboost:kits/kit_worker_loop",
-		"killboost:maps/toxic_glass_loop"
+		"killboost:maps/toxic_glass_loop",
+		"killboost:detect_new_players"
 		]
 }
