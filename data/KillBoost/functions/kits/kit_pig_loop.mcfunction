@@ -7,4 +7,5 @@ scoreboard players set @a[tag=kit_pig,scores={Crouched=1}] Crouched 100
 
 execute if score @r[tag=kit_pig] Crouched > 100 Crouched run scoreboard players set @s Crouched 100
 
-schedule function killboost:kits/kit_pig_shift 5
+function killboost:kits/kit_pig_shift
+
