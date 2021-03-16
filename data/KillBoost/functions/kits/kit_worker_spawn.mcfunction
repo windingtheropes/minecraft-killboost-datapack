@@ -6,3 +6,4 @@ function killboost:kits/kit_pig_spawn
 function killboost:kits/kit_enderman_spawn
 function killboost:kits/kit_windingtheropes_spawn
 function killboost:kits/kit_beetle_spawn
+function killboost:kits/kit_witch_spawn
