@@ -6,3 +6,4 @@ function killboost:kits/kit_pig_loop
 function killboost:kits/kit_enderman_loop
 function killboost:kits/kit_windingtheropes_loop
 function killboost:kits/kit_beetle_loop
+function killboost:kits/kit_witch_loop
