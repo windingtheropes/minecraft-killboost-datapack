@@ -1,5 +1,3 @@
-execute if score @p Kills = goal Goal run title @a title [{"selector":"@s"},{"text":" WINS!","color":"#FFD237"}]
-
 tp @a[team=Fighting] 0 50 0
 tp @a[team=Spectating] 0 50 0
 
@@ -21,3 +19,5 @@ team join Lobby @a[team=Spectating]
 spawnpoint @a[team=lobby] 0 50 0
 
 scoreboard players reset @a Kills
+
+schedule clear killboost:game/deathmatch_win

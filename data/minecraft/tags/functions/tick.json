@@ -5,6 +5,10 @@
 		"killboost:game/detect_dead",
 		"killboost:kits/kit_worker_loop",
 		"killboost:maps/toxic_glass_loop",
-		"killboost:detect_new_players"
+		"killboost:detect_new_players",
+		"killboost:game/countdown_clock_enabler",
+		"killboost:auto_pickup",
+		"killboost:game/game_countdown",
+		"killboost:game/deathmatch_loop"
 		]
 }

@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Age:0s}] run data merge entity @s {PickupDelay:0s}
