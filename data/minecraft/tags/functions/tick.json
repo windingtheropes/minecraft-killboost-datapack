@@ -9,7 +9,8 @@
 		"killboost:game/countdown_clock_enabler",
 		"killboost:auto_pickup",
 		"killboost:game/game_countdown",
-		"killboost:game/deathmatch_loop"
+		"killboost:game/deathmatch_loop",
+		"du:main"
 
 		]
 }
