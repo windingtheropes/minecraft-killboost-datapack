@@ -1,3 +1,4 @@
+execute if score map map matches 8 run scoreboard players set map map 1
 
 execute if score map map matches 1 run title @a actionbar {"text":"Selected map: Survival", "color":"red"}
 execute if score map map matches 2 run title @a actionbar {"text":"Selected map: Nether Fortress", "color":"red"}
